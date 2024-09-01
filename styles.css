@@ -40,9 +40,7 @@ button {
     cursor: pointer;
     outline: none;
     border-radius: 49px;
-}
-.btn{
-    
+}   
 }
 button:hover {
     background: #709ea5;
